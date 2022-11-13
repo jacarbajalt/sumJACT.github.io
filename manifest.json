@@ -1,0 +1,17 @@
+{
+    "name": "Sumativa2doParcial",
+    "short_name": "Sumativa2doParcial",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+      {
+        "src": "img/logo_uth_1.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+}
